@@ -18,7 +18,7 @@ To start using sDBlite, follow these simple steps:
 
 1. Download sDBlite from the repository [here](https://github.com/Build-Your-Dream-Python-Project/sDBlite/raw/main/sdb.py).
 
-1. Extract the downloaded package to your desired location.
+1. Move the downloaded file to your desired location.
 
 1. Import the `sDBlite` module in your Python program:
 
