@@ -16,7 +16,7 @@ Before we begin, it's important to note that sDBlite is currently in the experim
 
 To start using sDBlite, follow these simple steps:
 
-1. Download sDBlite from the repository [here](https://github.com/6fbf488f-4f4a-4055-ae9d-bd366bdb38af).
+1. Download sDBlite from the repository [here](https://github.com/Build-Your-Dream-Python-Project/sDBlite/raw/main/sdb.py).
 
 1. Extract the downloaded package to your desired location.
 
